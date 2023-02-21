@@ -1,5 +1,3 @@
-# GitHub Codespaces ♥️ Express
-
 # Getting Started with Cards API
 
 ## Tech Stack
